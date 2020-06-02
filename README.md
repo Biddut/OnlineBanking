@@ -1,2 +1,2 @@
 # OnlineBanking
-This a web base online banking solution system. 
+This a web based online banking solution system. 
